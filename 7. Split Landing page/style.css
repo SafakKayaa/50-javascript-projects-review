@@ -103,7 +103,7 @@ h1 {
   background-color: var(--right-bg-color);
 }
 
-/* .split.right,
+.split.right,
 .split.left,
 .split.right::before,
 .split.left::before {
@@ -126,7 +126,7 @@ h1 {
   width: var(--other-width);
 } 
 
-
+ 
 @media (max-width: 800px) {
   h1 {
     font-size: 2rem;
@@ -138,4 +138,3 @@ h1 {
     width: 12rem;
   }
 }
-*/
